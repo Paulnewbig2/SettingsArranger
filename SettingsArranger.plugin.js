@@ -3,7 +3,7 @@
  * @author mendjdjje
  * @description Move any entry of the settings sidebar into another section and change its position.
  * @version 1.0.0
- * @source https://github.com/mendjdjje/Idk
+ * @source https://github.com/mendjdjje/SettingsArranger/
  */
 
 const {Webpack, React, Components} = BdApi;
